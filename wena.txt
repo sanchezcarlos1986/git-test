@@ -1,3 +1,2 @@
 primero antes del revert
 segundo antes del revert
-tercero antes del revert
